@@ -1,3 +1,4 @@
-# first-project
-testing and practicing of git commands
--last thiond it is just for fun.
+# first-project.
+
+testing and practicing of git commands.
+-last thing it is just for fun.
